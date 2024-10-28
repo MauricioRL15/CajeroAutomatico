@@ -24,7 +24,7 @@ public class Principal {
 		Implementacion imp = new Implementacion();
 
 		do {
-			System.out.println("== MENU SANTANDER BIENVENIDO ==");
+			System.out.println("== MENU SANTANDER BIENVENIDO AL SISTEMA ==");
 			System.out.println("1 -- ALTA CLIENTE");
 			System.out.println("2 -- CONSULTAR SALDO");
 			System.out.println("3 -- DEPOSITO EN EFECTIVO");
